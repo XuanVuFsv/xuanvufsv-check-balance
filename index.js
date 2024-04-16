@@ -1,5 +1,5 @@
 const Web3 = require('web3');
-const { gweiToEther } = require('ftm-gas-convert');
+const { gweiToEther } = require('xuanvufsv-gas-convert');
 
 // Function to check Ethereum wallet balance
 async function checkBalance(walletAddress, providerUrl) {
