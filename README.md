@@ -1,4 +1,4 @@
 ## Installation
 ```bash
-npm ftm-check-balance
+npm xuanvufsv-check-balance
 ```
