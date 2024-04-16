@@ -1,0 +1,35 @@
+{
+  "name": "xuanvufsv-check-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XuanVuFsv/xuanvufsv-check-balance.git"
+  },
+  "keywords": [
+    "xuanvufsv-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "@xuanvufsv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XuanVuFsv/xuanvufsv-check-balance/issues"
+  },
+  "homepage": "https://github.com/XuanVuFsv/xuanvufsv-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "xuanvufsv-gas-convert": "1.0.0",
+    "@xuanvufsv/imgpack": "1.0.7",
+    "@xuanvufsv/simple-social-web-tea-test": "1.0.3",
+    "flower-shop-react-app": "0.1.0"
+  }
+}
